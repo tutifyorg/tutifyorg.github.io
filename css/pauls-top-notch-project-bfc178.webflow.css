@@ -2457,6 +2457,11 @@ a {
   display: none;
 }
 
+.link-4 {
+  color: #fff;
+  text-decoration: none;
+}
+
 @media screen and (max-width: 991px) {
   a {
     color: snow;
